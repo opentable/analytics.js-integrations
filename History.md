@@ -1,4 +1,12 @@
 
+1.3.43 / 2015-02-19
+===================
+
+  * quantcast: fix generic track orderid capitalization, add tests
+  * Un-minify Heap integration initialize method.
+  * Update Heap integration to new snippet.
+  * Update Amplitude to v2.0.3
+
 1.3.42 / 2015-02-13
 ===================
 
