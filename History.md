@@ -1,4 +1,10 @@
 
+1.3.44 / 2015-02-23
+==================
+
+  * test: update tests to test for .context instead of .options
+  * segment: fix onalias
+
 1.3.43 / 2015-02-19
 ===================
 
