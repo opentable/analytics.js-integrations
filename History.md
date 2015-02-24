@@ -1,4 +1,9 @@
 
+1.3.45 / 2015-02-24
+===================
+
+  * Heap: alias email to _email instead of dropping it entirely
+
 1.3.44 / 2015-02-23
 ==================
 
