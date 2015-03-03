@@ -1,4 +1,13 @@
 
+1.3.46 / 2015-03-03
+===================
+
+  * Nudgespot: Remove protocol from tag
+  * Nudgespot: updated identify call to accept id as a param
+  * Google Analytics: remove product impression call, map viewed product to detail view
+  * Frontleaf: update creds
+  * Adwords: Automatically attach custom paramaters for Google AdWords integration
+
 1.3.45 / 2015-02-24
 ===================
 
