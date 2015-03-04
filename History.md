@@ -1,4 +1,9 @@
 
+1.3.47 / 2015-03-04
+===================
+
+  * KISSMetrics: Reference alternative tracker URL
+
 1.3.46 / 2015-03-03
 ===================
 
