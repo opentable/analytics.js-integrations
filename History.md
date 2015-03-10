@@ -1,4 +1,10 @@
 
+1.3.48 / 2015-03-10
+===================
+
+  * Fullstory: Camelcase custom properties
+  * Mixpanel: Add option for cross-subdomain cookie
+
 1.3.47 / 2015-03-04
 ===================
 
