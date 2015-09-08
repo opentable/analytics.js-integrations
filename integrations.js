@@ -4,10 +4,5 @@
  */
 
 module.exports = [
-  require('./lib/google-analytics'),
-  require('./lib/google-tag-manager'),
-  require('./lib/mixpanel'),
-  require('./lib/opentable'),
-  require('./lib/optimizely'),
-  require('./lib/segmentio')
+  require('./lib/opentable')
 ];
